@@ -6,7 +6,7 @@ $name = 'metroDolphin';
 $author = 'GentlemanDesigns';
 
 // Theme URL
-$url = 'https://github.com/gentlemandesigns/metroDolphin';
+$url = 'https://github.com/gentlemandesigns/phpSocial-metroDolphin';
 
 // Theme Version
 $version = '5.2';
