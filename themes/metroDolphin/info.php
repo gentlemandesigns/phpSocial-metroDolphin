@@ -9,5 +9,5 @@ $author = 'GentlemanDesigns';
 $url = 'https://github.com/gentlemandesigns/phpSocial-metroDolphin';
 
 // Theme Version
-$version = '5.2';
+$version = '5.3.0';
 ?>
